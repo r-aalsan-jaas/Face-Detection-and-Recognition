@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Face Recognition Project</title>
-</head>
 <body>
 
 <h1>Face Recognition Project</h1>
@@ -29,7 +24,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/facerecognition.git
+        <pre><code>git clone https://github.com/r-aalsan-jaas/Face-Detection-and-Recognition.git
 cd facerecognition
 </code></pre>
     </li>
